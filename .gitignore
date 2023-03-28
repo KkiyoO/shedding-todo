@@ -1,0 +1,5 @@
+
+*.html
+*.py
+*.pyc
+*.sqlite3
